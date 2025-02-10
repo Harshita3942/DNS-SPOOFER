@@ -16,7 +16,7 @@ A Python-based DNS spoofer that intercepts and modifies DNS responses to redirec
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/dns-spoofer.git
+    git clone https://github.com/Harshita3942/dns-spoofer.git
     cd dns-spoofer
     ```
 
